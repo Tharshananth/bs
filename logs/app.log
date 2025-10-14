@@ -1,0 +1,68 @@
+2025-10-13 23:13:55,965 - pingus - INFO - CORS enabled for origins: ['https://portfolio-pingus.vercel.app', 'http://localhost:3000', 'http://127.0.0.1:3000']
+2025-10-13 23:13:55,982 - pingus - INFO - ============================================================
+2025-10-13 23:13:55,983 - pingus - INFO - Starting PingUs RAG Chatbot v2.0.0
+2025-10-13 23:13:55,984 - pingus - INFO - Environment: production
+2025-10-13 23:13:55,985 - pingus - INFO - ============================================================
+2025-10-13 23:13:55,986 - pingus - INFO - Initializing vector store...
+2025-10-13 23:14:21,384 - pingus - INFO - No documents in vector store, loading from data directory...
+2025-10-13 23:14:28,686 - pingus - INFO - Loaded 84 documents (155 chunks)
+2025-10-13 23:14:30,326 - pingus - INFO - Available LLM providers: openai, claude, gemini, huggingface
+2025-10-13 23:14:30,326 - pingus - INFO - Default provider: claude
+2025-10-13 23:14:30,327 - pingus - INFO - Startup complete!
+2025-10-13 23:14:30,327 - pingus - INFO - ============================================================
+2025-10-13 23:14:56,910 - pingus - INFO - CORS enabled for origins: ['https://portfolio-pingus.vercel.app', 'http://localhost:3000', 'http://127.0.0.1:3000']
+2025-10-13 23:14:56,919 - pingus - INFO - ============================================================
+2025-10-13 23:14:56,920 - pingus - INFO - Starting PingUs RAG Chatbot v2.0.0
+2025-10-13 23:14:56,921 - pingus - INFO - Environment: production
+2025-10-13 23:14:56,922 - pingus - INFO - ============================================================
+2025-10-13 23:14:56,922 - pingus - INFO - Initializing vector store...
+2025-10-13 23:15:17,695 - pingus - INFO - Vector store ready with 155 documents
+2025-10-13 23:15:18,239 - pingus - INFO - Available LLM providers: openai, claude, gemini, huggingface
+2025-10-13 23:15:18,240 - pingus - INFO - Default provider: claude
+2025-10-13 23:15:18,241 - pingus - INFO - Startup complete!
+2025-10-13 23:15:18,241 - pingus - INFO - ============================================================
+2025-10-13 23:17:32,126 - pingus - INFO - GET /health
+2025-10-13 23:17:32,148 - pingus - INFO - Response: 200
+2025-10-13 23:17:32,331 - pingus - INFO - GET /favicon.ico
+2025-10-13 23:17:32,334 - pingus - INFO - Response: 404
+2025-10-13 23:17:50,519 - pingus - INFO - GET /
+2025-10-13 23:17:50,527 - pingus - INFO - Response: 200
+2025-10-13 23:18:41,080 - pingus - INFO - GET /api/health
+2025-10-13 23:18:41,083 - pingus - INFO - Response: 307
+2025-10-13 23:18:41,089 - pingus - INFO - GET /api/health/
+2025-10-13 23:18:41,294 - pingus - INFO - Response: 200
+2025-10-13 23:21:18,734 - pingus - INFO - GET /docs
+2025-10-13 23:21:18,743 - pingus - INFO - Response: 404
+2025-10-13 23:21:49,067 - pingus - INFO - GET /docs
+2025-10-13 23:21:49,069 - pingus - INFO - Response: 404
+2025-10-13 23:24:13,365 - pingus - INFO - Shutting down application...
+2025-10-13 23:24:30,803 - pingus - INFO - CORS enabled for origins: ['https://portfolio-pingus.vercel.app', 'http://localhost:3000', 'http://127.0.0.1:3000']
+2025-10-13 23:24:30,811 - pingus - INFO - ============================================================
+2025-10-13 23:24:30,812 - pingus - INFO - Starting PingUs RAG Chatbot v2.0.0
+2025-10-13 23:24:30,812 - pingus - INFO - Environment: production
+2025-10-13 23:24:30,812 - pingus - INFO - ============================================================
+2025-10-13 23:24:30,813 - pingus - INFO - Initializing vector store...
+2025-10-13 23:24:41,421 - pingus - INFO - Vector store ready with 155 documents
+2025-10-13 23:24:42,157 - pingus - INFO - Available LLM providers: openai, claude, gemini, huggingface
+2025-10-13 23:24:42,158 - pingus - INFO - Default provider: claude
+2025-10-13 23:24:42,158 - pingus - INFO - Startup complete!
+2025-10-13 23:24:42,160 - pingus - INFO - ============================================================
+2025-10-13 23:30:29,497 - pingus - INFO - CORS enabled for all origins
+2025-10-13 23:33:05,825 - pingus - INFO - CORS enabled for all origins
+2025-10-13 23:33:15,883 - pingus - INFO - CORS enabled for all origins
+2025-10-13 23:33:23,644 - pingus - INFO - CORS enabled for all origins
+2025-10-13 23:34:33,046 - pingus - INFO - CORS enabled for all origins
+2025-10-13 23:36:17,850 - pingus - INFO - GET /docs
+2025-10-13 23:36:17,854 - pingus - INFO - Response: 200
+2025-10-13 23:36:17,997 - pingus - INFO - GET /static/swagger-ui.css
+2025-10-13 23:36:18,061 - pingus - INFO - Response: 200
+2025-10-13 23:36:18,070 - pingus - INFO - GET /static/swagger-ui-bundle.js
+2025-10-13 23:36:18,779 - pingus - INFO - Response: 200
+2025-10-13 23:36:18,928 - pingus - INFO - GET /openapi.json
+2025-10-13 23:36:18,941 - pingus - INFO - Response: 200
+2025-10-13 23:41:58,445 - pingus - INFO - POST /api/chat/
+2025-10-13 23:42:32,539 - pingus - INFO - Response: 200
+2025-10-13 23:46:12,280 - pingus - INFO - POST /api/chat/
+2025-10-13 23:46:16,608 - pingus - INFO - Response: 200
+2025-10-14 14:47:19,385 - pingus - INFO - CORS enabled for all origins
+2025-10-14 18:23:01,320 - pingus - INFO - CORS enabled for all origins
